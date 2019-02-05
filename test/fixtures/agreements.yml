@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  joboffer_id: 1
+  final_price: 1
+  payed: false
+
+two:
+  user_id: 1
+  joboffer_id: 1
+  final_price: 1
+  payed: false
