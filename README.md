@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+https://trello.com/b/tzEbScOF/project
+
+https://www.draw.io/?libs=general;uml#G1V0Cb_K-mHo59uGagfMilyBYscvZMPdAs
+
+
